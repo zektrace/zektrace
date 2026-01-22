@@ -2,7 +2,7 @@
  ```
  Programmer, 16/y.
  ```
-> Contact: [zek@alumni.com](mailto:zek@example.com?subject=Hey%20Zek!&body=Hey%20Zek,%20I%20need%20help%20with%20...).
+> Contact: [zek@europe.com](mailto:zek@europe.com?subject=Hey%20Zek!&body=Hey%20Zek,%20I%20need%20help%20with%20...).
 
 | <a href="."><img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,rust,go,python,typescript&theme=light&perline=6"></a> |
 |-|
@@ -27,7 +27,7 @@
 <!-- ```
 GitHub Terms (https://github.com/terms).
 ``` -->
-| <sup><sub><code> —     [zek@alumni.com](mailto:zek@example.com?subject=Hey%20Zek!&body=Hey%20Zek,%20I%20need%20help%20with%20...)     — |
+| <sup><sub><code> —     [zek@europe.com](mailto:zek@europe.com?subject=Hey%20Zek!&body=Hey%20Zek,%20I%20need%20help%20with%20...)     — |
 |-|
 </div>
 <!-- [discord.gg](https://discord.gg/dXdN8cbE9B)    [drift.rip](https://drift.rip/zek)    </code></sub></sup>     [guns.lol](https://guns.lol/zek...)     -->
