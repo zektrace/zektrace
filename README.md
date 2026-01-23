@@ -12,6 +12,9 @@
 <!-- #### [» Segur](https://github.com/zektrace/segur)
 **Secure cryptographic primitives for Python** with a great developer experience. Built on audited libraries from *[PyCA Cryptography](https://cryptography.io/)*, designed for real applications. **Segur provides:** Password hashing, Authenticated encryption, Key derivation, Secure storage, etc. -->
 
+#### [» Payload in pixels](https://gist.github.com/zektrace/ae06b54cd45a88a4f4a4fa885506e437)
+A compact demonstration of how encrypted data can be concealed inside images using low-level bit manipulation. 
+
 <!-- <a href="https://github.com/zektrace/segur"> <img align="right" src="https://github.com/user-attachments/assets/1cc6a959-846b-46bb-97df-a6922d93639c" height="140px" alt="segur logo"> </a> -->
 
 <br>
