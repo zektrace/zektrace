@@ -4,7 +4,7 @@
  ```
 > Contact: [carloslurqui@gmail.com](mailto:carloslurqui@gmail.com?subject=Hey!&body=Hey!%20I%20found%20you%20on%20GitHub%20and%20wanted%20to%20reach%20out...).
 
-| <a href="."><img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,rust,go,python,typescript&theme=light&perline=6"></a> |
+| <a href="."><img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,rust,go,python,typescript,julia&theme=light&perline=6"></a> |
 |-|
 
 ---
