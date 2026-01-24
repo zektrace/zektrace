@@ -1,4 +1,4 @@
-<a href="."> <img src="https://github.com/user-attachments/assets/e6e8e57e-6abe-404f-a5c6-1d3cf47ac504" align="left" height="180px"></a>
+<a href="."> <img src="https://github.com/user-attachments/assets/e6e8e57e-6abe-404f-a5c6-1d3cf47ac504" align="right" height="180px"></a>
  ```
  Programmer, 16/y.
  ```
